@@ -1,0 +1,3 @@
+oracle 
+when we create the new table in oracle id number(10),name varchar(20) 
+i want to create defualt id .how can write the code for default id in oracle using 11g
